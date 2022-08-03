@@ -3,7 +3,7 @@ var path = require('path');
 var transliterate = require('transliteration')
 
 // 配置脚本
-const SITE_URL = "https://diandeng.tech/";
+const SITE_URL = "https://b4a.clz.me/";
 const DOC_PATH = "docs/";
 const CONFIG_OUTPUT_PATH = "docs/config.json";
 const CUSTOM_PATH = "custom.json";
